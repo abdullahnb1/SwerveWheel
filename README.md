@@ -17,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/othneildrew/Best-README-Template](https://github.com/abdullahnb1/SwerveWheel/blob/main/images/ROBEE.png)">
+  <a href="[https://github.com/abdullahnb1/SwerveWheel/blob/main/images/ROBEE.png]">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
