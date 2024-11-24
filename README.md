@@ -17,8 +17,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/abdullahnb1/SwerveWheel/main/images/ROBEE.png]">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="[https://github.com/abdullahnb1/SwerveWheel/blob/main/images/RoBee.png]">
+    <img src="images/RoBee.png" alt="Logo" width="700" height="500">
   </a>
 
   <h3 align="center">RO-BEE</h3>
