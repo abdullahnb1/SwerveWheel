@@ -60,7 +60,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are many rover design on the Internet. Some of them uses advanced technologies, some of them have same design over and over again. In this project, we wanted to achive that we can make a rover with basic electronic modules, and make it look futuristic with design. We are sharing this project public.
 
