@@ -21,7 +21,7 @@
     <img src="images/RoBee.png" alt="Logo" width="700" height="500">
   </a>
 
-  <h3 align="center">RO-BEE</h3>
+  <h1 align="center">RO-BEE</h1>
 
   <p align="center">
     This is a perfect project for homemade robots. It includes everything from electronics to mechanical design, and writing codes. All you need to make this project alive is a 3D printer, a laptop, and lots of patience during the elapsed time while struggling with the small parts.  
