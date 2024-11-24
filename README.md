@@ -17,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/abdullahnb1/SwerveWheel/blob/main/images/ROBEE.img]">
+  <a href="[https://github.com/abdullahnb1/SwerveWheel/main/images/ROBEE.png]">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -147,18 +147,15 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Abdullah Naci Bodur - [@naci_instagram](https://instagram.com/bodurabdullahnaci) - abdullahnacibodur@gmail.com
+Abdullah Naci Bodur - [@naci_instagram](https://instagram.com/bodurabdullahnaci) - abdullahnacibodur@gmail.com 
+
 Tuna Ercan          - [@tuna_instagram](https://instagram.com/monsieur_poire) - tuna.ercan04@gmail.com
+
+
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/abdullahnb1/SwerveWheel)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
